@@ -1,7 +1,0 @@
-node_modules/
-client/dist/
-data/*.db
-data/*.db-*
-.env
-.env.*
-!.env.example
